@@ -18,7 +18,7 @@ Dataset berasal dari file cyberbullying_tweets.csv dengan kolom:
 Langkah-langkah pra-pemrosesan teks:
 1. Pembersihan Teks: Menghapus URL, mention (@), dan karakter khusus.
 2. Tokenisasi: Memecah teks menjadi kata per kata.
-3. Stopword Removal: Menghilangkan kata umum (contoh: "yang", "di").
+3. Stopword Removal: Menghilangkan kata umum.
 4. Lemmatisasi: Mengubah kata ke bentuk dasar.
 5. TF-IDF Vectorization: Konversi teks ke vektor numerik.
 
